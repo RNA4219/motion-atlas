@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-04",
+  "version": "2.0.0",
+  "environment": "Windows / Codex in-app browser",
+  "checks": {
+    "catalog_count": 200,
+    "new_filter_count": 61,
+    "desktop_width": 1280,
+    "desktop_no_horizontal_overflow": true,
+    "comparison_reopen_after_selecting_pendulum": true,
+    "comparison_independent_gravity_100_and_250": true,
+    "comparison_pause_seek_2_40": true,
+    "comparison_visible_clock_matches_both_canvas_clocks": true,
+    "comparison_mobile_width": 390,
+    "comparison_mobile_no_horizontal_overflow": true,
+    "saved_length_190_survives_reload": true,
+    "json_import_length_180_gravity_180_color_speed_strength": true,
+    "adjusted_values_in_integration_code": true,
+    "json_export_downloaded_file_confirmed": true,
+    "actual_export_imported_into_standalone": true,
+    "standalone_time_and_seek_match_5_56": true,
+    "standalone_mobile_no_horizontal_overflow": true,
+    "standalone_external_element_count": 0,
+    "browser_error_and_warning_count": 0
+  },
+  "limitations": [
+    "ブラウザのURLポリシーでfile://を開けず、単独HTMLはHTTPで検証した。全HTMLの外部参照・通信不存在は別途静的検査した。",
+    "実機スマートフォンと別ブラウザでの検証は実施していない。",
+    "reduced-motionと非表示時の停止はプレイヤー境界の自動テストで検証した。",
+    "ダウンロード完了イベントは検証ツールでタイムアウトしたため、Downloadsの実ファイルと単独HTMLへの再読み込みで検証した。"
+  ],
+  "screenshots": [
+    "browser-v2-gallery.jpg",
+    "browser-v2-compare.jpg",
+    "browser-v2-mobile.jpg",
+    "browser-v2-standalone.jpg"
+  ]
+}

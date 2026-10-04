@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "demo": "pendulum",
+  "params": {
+    "length": 180,
+    "gravity": 180,
+    "scale": 1
+  },
+  "accent": "#ef7087",
+  "time": 2.4,
+  "speed": 0.5,
+  "strength": 0.8
+}

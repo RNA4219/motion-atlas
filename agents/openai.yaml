@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Motion Atlas"
+  short_description: "200の作例からフロントエンドの動きを選び、調整・比較・組込みする"
+  default_prompt: "$frontend-motion-atlas を使って、既存の画面に合うモーションを選び、調整して組み込んでください。"

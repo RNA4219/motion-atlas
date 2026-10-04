@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-04",
+  "environment": "Windows / Codex in-app browser",
+  "checks": {
+    "desktop_no_horizontal_overflow": true,
+    "search_slider_ui_returns_three": true,
+    "no_match_and_clear_filters": true,
+    "game_category_returns_fourteen": true,
+    "favorites_survive_reload": true,
+    "pause_seek_2_50_speed_0_5_strength_50_percent": true,
+    "slider_keyboard_shows_55_percent": true,
+    "text_enter_shows_saved_result": true,
+    "next_demo_fabrik_to_lightning": true,
+    "close_restores_opener_focus": true,
+    "hash_opens_detail_on_reload": true,
+    "mobile_390px_no_horizontal_overflow": true,
+    "standalone_japanese_text_and_enter": true,
+    "standalone_seek_2_40": true,
+    "standalone_external_element_count": 0,
+    "browser_error_count": 0
+  },
+  "limitations": [
+    "ブラウザのURLポリシーでfile://を開けず、単独HTMLはHTTPで検証した。全HTMLの外部参照・通信不存在は別途静的検査した。",
+    "実機スマートフォンと別ブラウザでの検証は実施していない。",
+    "reduced-motionと非表示時の停止はプレイヤー境界の自動テストで検証した。"
+  ],
+  "version": "1.0.0"
+}

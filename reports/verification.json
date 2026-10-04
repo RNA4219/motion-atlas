@@ -1,0 +1,1409 @@
+{
+  "checked_at": "2026-10-04T03:02:49.653Z",
+  "entries": 200,
+  "rendered": 200,
+  "artifacts_verified": 400,
+  "results": [
+    {
+      "id": "switch",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 10077,
+      "interaction_rendered": true
+    },
+    {
+      "id": "checkbox",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 2532,
+      "interaction_rendered": true
+    },
+    {
+      "id": "radio",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 1793,
+      "interaction_rendered": true
+    },
+    {
+      "id": "button",
+      "deterministic": true,
+      "changes": false,
+      "foreground_pixels": 7714,
+      "interaction_rendered": true
+    },
+    {
+      "id": "fab",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 5225,
+      "interaction_rendered": true
+    },
+    {
+      "id": "list",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 25374,
+      "interaction_rendered": true
+    },
+    {
+      "id": "chip",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 7620,
+      "interaction_rendered": true
+    },
+    {
+      "id": "slider",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 5350,
+      "interaction_rendered": true
+    },
+    {
+      "id": "linear-progress",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 5987,
+      "interaction_rendered": true
+    },
+    {
+      "id": "circular-progress",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 3592,
+      "interaction_rendered": true
+    },
+    {
+      "id": "icon-button",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 3531,
+      "interaction_rendered": true
+    },
+    {
+      "id": "text-field",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 683,
+      "interaction_rendered": true
+    },
+    {
+      "id": "search-bar",
+      "deterministic": true,
+      "changes": false,
+      "foreground_pixels": 1508,
+      "interaction_rendered": true
+    },
+    {
+      "id": "app-bar",
+      "deterministic": true,
+      "changes": false,
+      "foreground_pixels": 42060,
+      "interaction_rendered": true
+    },
+    {
+      "id": "bottom-nav",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 9888,
+      "interaction_rendered": true
+    },
+    {
+      "id": "tabs",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 1151,
+      "interaction_rendered": true
+    },
+    {
+      "id": "snackbar",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 29991,
+      "interaction_rendered": true
+    },
+    {
+      "id": "dialog",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 9930,
+      "interaction_rendered": true
+    },
+    {
+      "id": "bottom-sheet",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 9930,
+      "interaction_rendered": true
+    },
+    {
+      "id": "drawer",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 9930,
+      "interaction_rendered": true
+    },
+    {
+      "id": "menu",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 15074,
+      "interaction_rendered": true
+    },
+    {
+      "id": "tooltip",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 9443,
+      "interaction_rendered": true
+    },
+    {
+      "id": "card",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 32146,
+      "interaction_rendered": true
+    },
+    {
+      "id": "badge",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 2380,
+      "interaction_rendered": true
+    },
+    {
+      "id": "loading-button",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 10375,
+      "interaction_rendered": true
+    },
+    {
+      "id": "send-arc",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 1417,
+      "interaction_rendered": true
+    },
+    {
+      "id": "command-palette",
+      "deterministic": true,
+      "changes": false,
+      "foreground_pixels": 1508,
+      "interaction_rendered": true
+    },
+    {
+      "id": "parent-badge",
+      "deterministic": true,
+      "changes": false,
+      "foreground_pixels": 3760,
+      "interaction_rendered": true
+    },
+    {
+      "id": "flip-clone",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 7414,
+      "interaction_rendered": true
+    },
+    {
+      "id": "ink-ripple",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 109260,
+      "interaction_rendered": true
+    },
+    {
+      "id": "container-transform",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 29501,
+      "interaction_rendered": true
+    },
+    {
+      "id": "shape-morph",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 24413,
+      "interaction_rendered": true
+    },
+    {
+      "id": "choreography",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 33231,
+      "interaction_rendered": true
+    },
+    {
+      "id": "elevation",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 48391,
+      "interaction_rendered": true
+    },
+    {
+      "id": "toggle",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 14287,
+      "interaction_rendered": true
+    },
+    {
+      "id": "fluent-checkbox",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 5194,
+      "interaction_rendered": true
+    },
+    {
+      "id": "fluent-radio",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 4312,
+      "interaction_rendered": true
+    },
+    {
+      "id": "accent-button",
+      "deterministic": true,
+      "changes": false,
+      "foreground_pixels": 22310,
+      "interaction_rendered": true
+    },
+    {
+      "id": "pivot",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 40970,
+      "interaction_rendered": true
+    },
+    {
+      "id": "fluent-slider",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 5554,
+      "interaction_rendered": true
+    },
+    {
+      "id": "progress-ring",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 3796,
+      "interaction_rendered": true
+    },
+    {
+      "id": "command-bar",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 56631,
+      "interaction_rendered": true
+    },
+    {
+      "id": "nav-view",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 72930,
+      "interaction_rendered": true
+    },
+    {
+      "id": "info-bar",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 126130,
+      "interaction_rendered": true
+    },
+    {
+      "id": "combo-box",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 139354,
+      "interaction_rendered": true
+    },
+    {
+      "id": "text-box",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 32074,
+      "interaction_rendered": true
+    },
+    {
+      "id": "split-button",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 15658,
+      "interaction_rendered": true
+    },
+    {
+      "id": "flipview",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 85875,
+      "interaction_rendered": true
+    },
+    {
+      "id": "teaching-tip",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 139354,
+      "interaction_rendered": true
+    },
+    {
+      "id": "tree-view",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 96010,
+      "interaction_rendered": true
+    },
+    {
+      "id": "live-tiles",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 50583,
+      "interaction_rendered": true
+    },
+    {
+      "id": "turnstile",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 23206,
+      "interaction_rendered": true
+    },
+    {
+      "id": "progress-dots",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 1473,
+      "interaction_rendered": true
+    },
+    {
+      "id": "tilt",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 71797,
+      "interaction_rendered": true
+    },
+    {
+      "id": "reveal",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 70457,
+      "interaction_rendered": true
+    },
+    {
+      "id": "acrylic",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 100373,
+      "interaction_rendered": true
+    },
+    {
+      "id": "ios-switch",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 13370,
+      "interaction_rendered": true
+    },
+    {
+      "id": "mac-checkbox",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 4719,
+      "interaction_rendered": true
+    },
+    {
+      "id": "segmented",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 40640,
+      "interaction_rendered": true
+    },
+    {
+      "id": "ios-slider",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 5494,
+      "interaction_rendered": true
+    },
+    {
+      "id": "stepper",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 23524,
+      "interaction_rendered": true
+    },
+    {
+      "id": "tab-bar",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 40640,
+      "interaction_rendered": true
+    },
+    {
+      "id": "page-control",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 908,
+      "interaction_rendered": true
+    },
+    {
+      "id": "wheel-picker",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 70571,
+      "interaction_rendered": true
+    },
+    {
+      "id": "action-sheet",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 138981,
+      "interaction_rendered": true
+    },
+    {
+      "id": "alert",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 138981,
+      "interaction_rendered": true
+    },
+    {
+      "id": "large-title",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 129580,
+      "interaction_rendered": true
+    },
+    {
+      "id": "spinner-ticks",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 2220,
+      "interaction_rendered": true
+    },
+    {
+      "id": "page-sheet",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 138981,
+      "interaction_rendered": true
+    },
+    {
+      "id": "search-field",
+      "deterministic": true,
+      "changes": false,
+      "foreground_pixels": 80422,
+      "interaction_rendered": true
+    },
+    {
+      "id": "context-menu",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 138981,
+      "interaction_rendered": true
+    },
+    {
+      "id": "toolbar",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 56314,
+      "interaction_rendered": true
+    },
+    {
+      "id": "spring",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 4512,
+      "interaction_rendered": true
+    },
+    {
+      "id": "dock-magnify",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 36450,
+      "interaction_rendered": true
+    },
+    {
+      "id": "dynamic-island",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 89502,
+      "interaction_rendered": true
+    },
+    {
+      "id": "breathe",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 42164,
+      "interaction_rendered": true
+    },
+    {
+      "id": "genie",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 697,
+      "interaction_rendered": true
+    },
+    {
+      "id": "liquid-glass",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 75569,
+      "interaction_rendered": true
+    },
+    {
+      "id": "squash-stretch",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 4308,
+      "interaction_rendered": true
+    },
+    {
+      "id": "anticipation",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 3925,
+      "interaction_rendered": true
+    },
+    {
+      "id": "easing",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 7374,
+      "interaction_rendered": true
+    },
+    {
+      "id": "overlap",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 6115,
+      "interaction_rendered": true
+    },
+    {
+      "id": "masking",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 20472,
+      "interaction_rendered": true
+    },
+    {
+      "id": "common-fate",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 9885,
+      "interaction_rendered": true
+    },
+    {
+      "id": "seek-time",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 103315,
+      "interaction_rendered": true
+    },
+    {
+      "id": "shot-clock",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 13872,
+      "interaction_rendered": true
+    },
+    {
+      "id": "beat-grid",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 9601,
+      "interaction_rendered": true
+    },
+    {
+      "id": "accordion",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 74582,
+      "interaction_rendered": true
+    },
+    {
+      "id": "radial-menu",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 9488,
+      "interaction_rendered": true
+    },
+    {
+      "id": "pull-refresh",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 95181,
+      "interaction_rendered": true
+    },
+    {
+      "id": "swipe-archive",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 66509,
+      "interaction_rendered": true
+    },
+    {
+      "id": "sortable-stack",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 58975,
+      "interaction_rendered": true
+    },
+    {
+      "id": "magnetic-button",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 12298,
+      "interaction_rendered": true
+    },
+    {
+      "id": "elastic-cursor",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 2544,
+      "interaction_rendered": true
+    },
+    {
+      "id": "breadcrumb",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 16797,
+      "interaction_rendered": true
+    },
+    {
+      "id": "skeleton-shimmer",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 29516,
+      "interaction_rendered": true
+    },
+    {
+      "id": "circular-meter",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 9002,
+      "interaction_rendered": true
+    },
+    {
+      "id": "price-counter",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 63135,
+      "interaction_rendered": true
+    },
+    {
+      "id": "pin-input",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 26070,
+      "interaction_rendered": true
+    },
+    {
+      "id": "notification-stack",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 47984,
+      "interaction_rendered": true
+    },
+    {
+      "id": "color-wheel",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 20238,
+      "interaction_rendered": true
+    },
+    {
+      "id": "focus-ring",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 38725,
+      "interaction_rendered": true
+    },
+    {
+      "id": "scroll-spy",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 87699,
+      "interaction_rendered": true
+    },
+    {
+      "id": "split-pane",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 96764,
+      "interaction_rendered": true
+    },
+    {
+      "id": "step-journey",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 5922,
+      "interaction_rendered": true
+    },
+    {
+      "id": "pagination-bridge",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 6504,
+      "interaction_rendered": true
+    },
+    {
+      "id": "light-burst",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 64395,
+      "interaction_rendered": true
+    },
+    {
+      "id": "light-streaks",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 13447,
+      "interaction_rendered": true
+    },
+    {
+      "id": "assemble",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 10152,
+      "interaction_rendered": true
+    },
+    {
+      "id": "shatter",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 48115,
+      "interaction_rendered": true
+    },
+    {
+      "id": "glitch",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 9729,
+      "interaction_rendered": true
+    },
+    {
+      "id": "dolly-zoom",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 70570,
+      "interaction_rendered": true
+    },
+    {
+      "id": "aurora",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 99203,
+      "interaction_rendered": true
+    },
+    {
+      "id": "circuit",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 9430,
+      "interaction_rendered": true
+    },
+    {
+      "id": "film-look",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 53818,
+      "interaction_rendered": true
+    },
+    {
+      "id": "enso",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 4724,
+      "interaction_rendered": true
+    },
+    {
+      "id": "speed-lines",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 9792,
+      "interaction_rendered": true
+    },
+    {
+      "id": "wipes",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 71323,
+      "interaction_rendered": true
+    },
+    {
+      "id": "night-sky",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 3600,
+      "interaction_rendered": true
+    },
+    {
+      "id": "water-mirror",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 135437,
+      "interaction_rendered": true
+    },
+    {
+      "id": "marble-mask",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 22932,
+      "interaction_rendered": true
+    },
+    {
+      "id": "crowd-field",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 17099,
+      "interaction_rendered": true
+    },
+    {
+      "id": "boil-wash",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 37219,
+      "interaction_rendered": true
+    },
+    {
+      "id": "paint-reveal",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 87151,
+      "interaction_rendered": true
+    },
+    {
+      "id": "shape-cut",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 11928,
+      "interaction_rendered": true
+    },
+    {
+      "id": "brush-wipe",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 117430,
+      "interaction_rendered": true
+    },
+    {
+      "id": "speed-match",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 4778,
+      "interaction_rendered": true
+    },
+    {
+      "id": "whip-pan",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 71262,
+      "interaction_rendered": true
+    },
+    {
+      "id": "zoom-dive",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 10538,
+      "interaction_rendered": true
+    },
+    {
+      "id": "hard-flash",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 70850,
+      "interaction_rendered": true
+    },
+    {
+      "id": "slow-push",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 72831,
+      "interaction_rendered": true
+    },
+    {
+      "id": "photo-parallax",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 78708,
+      "interaction_rendered": true
+    },
+    {
+      "id": "speed-ramp",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 3931,
+      "interaction_rendered": true
+    },
+    {
+      "id": "match-cut",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 138455,
+      "interaction_rendered": true
+    },
+    {
+      "id": "drop-word",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 4691,
+      "interaction_rendered": true
+    },
+    {
+      "id": "odometer",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 28192,
+      "interaction_rendered": true
+    },
+    {
+      "id": "karaoke-fill",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 3702,
+      "interaction_rendered": true
+    },
+    {
+      "id": "subtitle-band",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 48060,
+      "interaction_rendered": true
+    },
+    {
+      "id": "bilingual-title",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 6312,
+      "interaction_rendered": true
+    },
+    {
+      "id": "even-lines",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 7204,
+      "interaction_rendered": true
+    },
+    {
+      "id": "soft-enter",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 5912,
+      "interaction_rendered": true
+    },
+    {
+      "id": "baked-text",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 81017,
+      "interaction_rendered": true
+    },
+    {
+      "id": "callout",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 6443,
+      "interaction_rendered": true
+    },
+    {
+      "id": "hud-tape",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 82271,
+      "interaction_rendered": true
+    },
+    {
+      "id": "iris-aperture",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 128429,
+      "interaction_rendered": true
+    },
+    {
+      "id": "venetian-blinds",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 129551,
+      "interaction_rendered": true
+    },
+    {
+      "id": "checker-reveal",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 131351,
+      "interaction_rendered": true
+    },
+    {
+      "id": "diagonal-cascade",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 135687,
+      "interaction_rendered": true
+    },
+    {
+      "id": "luminance-reveal",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 133986,
+      "interaction_rendered": true
+    },
+    {
+      "id": "halftone-field",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 46080,
+      "interaction_rendered": true
+    },
+    {
+      "id": "duotone-morph",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 124864,
+      "interaction_rendered": true
+    },
+    {
+      "id": "chromatic-orbit",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 22274,
+      "interaction_rendered": true
+    },
+    {
+      "id": "flip-clock",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 28959,
+      "interaction_rendered": true
+    },
+    {
+      "id": "typewriter",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 4083,
+      "interaction_rendered": true
+    },
+    {
+      "id": "text-scramble",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 2747,
+      "interaction_rendered": true
+    },
+    {
+      "id": "text-wave",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 2858,
+      "interaction_rendered": true
+    },
+    {
+      "id": "orbit-letters",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 1534,
+      "interaction_rendered": true
+    },
+    {
+      "id": "perspective-crawl",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 3585,
+      "interaction_rendered": true
+    },
+    {
+      "id": "text-shutters",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 5369,
+      "interaction_rendered": true
+    },
+    {
+      "id": "letter-trace",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 9071,
+      "interaction_rendered": true
+    },
+    {
+      "id": "mosaic-focus",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 135460,
+      "interaction_rendered": true
+    },
+    {
+      "id": "ribbon-weave",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 34230,
+      "interaction_rendered": true
+    },
+    {
+      "id": "bokeh-drift",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 25126,
+      "interaction_rendered": true
+    },
+    {
+      "id": "moire-interference",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 61082,
+      "interaction_rendered": true
+    },
+    {
+      "id": "curl-noise",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 7509,
+      "interaction_rendered": true
+    },
+    {
+      "id": "hermite-swarm",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 2519,
+      "interaction_rendered": true
+    },
+    {
+      "id": "quaternion",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 6456,
+      "interaction_rendered": true
+    },
+    {
+      "id": "magic-circle",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 8708,
+      "interaction_rendered": true
+    },
+    {
+      "id": "fabrik",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 5587,
+      "interaction_rendered": true
+    },
+    {
+      "id": "lightning",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 15551,
+      "interaction_rendered": true
+    },
+    {
+      "id": "hit-stop",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 11438,
+      "interaction_rendered": true
+    },
+    {
+      "id": "double-outline",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 85740,
+      "interaction_rendered": true
+    },
+    {
+      "id": "warp",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 1198,
+      "interaction_rendered": true
+    },
+    {
+      "id": "second-order",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 2051,
+      "interaction_rendered": true
+    },
+    {
+      "id": "wave-equation",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 4114,
+      "interaction_rendered": true
+    },
+    {
+      "id": "edge-flow",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 3896,
+      "interaction_rendered": true
+    },
+    {
+      "id": "follow-lab",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 6165,
+      "interaction_rendered": true
+    },
+    {
+      "id": "wave-field",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 28840,
+      "interaction_rendered": true
+    },
+    {
+      "id": "pendulum",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 2602,
+      "interaction_rendered": true
+    },
+    {
+      "id": "newton-cradle",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 7926,
+      "interaction_rendered": true
+    },
+    {
+      "id": "projectile",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 2443,
+      "interaction_rendered": true
+    },
+    {
+      "id": "orbital-gravity",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 2891,
+      "interaction_rendered": true
+    },
+    {
+      "id": "lissajous",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 7563,
+      "interaction_rendered": true
+    },
+    {
+      "id": "spirograph",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 4476,
+      "interaction_rendered": true
+    },
+    {
+      "id": "rose-curve",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 3170,
+      "interaction_rendered": true
+    },
+    {
+      "id": "superformula",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 1604,
+      "interaction_rendered": true
+    },
+    {
+      "id": "lorenz-attractor",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 4202,
+      "interaction_rendered": true
+    },
+    {
+      "id": "rossler-attractor",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 2474,
+      "interaction_rendered": true
+    },
+    {
+      "id": "flocking",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 1273,
+      "interaction_rendered": true
+    },
+    {
+      "id": "voronoi-drift",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 131307,
+      "interaction_rendered": true
+    },
+    {
+      "id": "delaunay-mesh",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 6722,
+      "interaction_rendered": true
+    },
+    {
+      "id": "poisson-disk",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 8771,
+      "interaction_rendered": true
+    },
+    {
+      "id": "metaballs",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 33329,
+      "interaction_rendered": true
+    },
+    {
+      "id": "verlet-rope",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 1508,
+      "interaction_rendered": true
+    },
+    {
+      "id": "cloth-grid",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 6070,
+      "interaction_rendered": true
+    },
+    {
+      "id": "double-pendulum",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 2880,
+      "interaction_rendered": true
+    },
+    {
+      "id": "game-of-life",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 99069,
+      "interaction_rendered": true
+    },
+    {
+      "id": "sandpile",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 51280,
+      "interaction_rendered": true
+    },
+    {
+      "id": "astar-search",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 109092,
+      "interaction_rendered": true
+    },
+    {
+      "id": "pendulum-wave",
+      "deterministic": true,
+      "changes": true,
+      "foreground_pixels": 4654,
+      "interaction_rendered": true
+    }
+  ],
+  "failures": []
+}

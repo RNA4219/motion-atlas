@@ -1,0 +1,30 @@
+{
+  "name": "motion-atlas",
+  "version": "2.0.0",
+  "description": "200の動きを調整・比較・再利用できるフロントエンド向けMITライブラリ・エージェントスキル集",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RNA4219/motion-atlas.git"
+  },
+  "homepage": "https://github.com/RNA4219/motion-atlas#readme",
+  "bugs": {
+    "url": "https://github.com/RNA4219/motion-atlas/issues"
+  },
+  "keywords": ["frontend", "animation", "canvas", "motion-design", "agent-skills"],
+  "type": "module",
+  "license": "MIT",
+  "private": true,
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "verify": "node scripts/verify.mjs",
+    "package": "node scripts/package.mjs"
+  },
+  "devDependencies": {
+    "@napi-rs/canvas": "1.0.10"
+  }
+}

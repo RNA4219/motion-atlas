@@ -1,0 +1,7 @@
+// Copyright (c) 2026 Motion Atlas contributors — MIT License.
+import http from 'node:http';import fs from 'node:fs';import path from 'node:path';import {fileURLToPath} from 'node:url';
+const project=fileURLToPath(new URL('..',import.meta.url)),root=path.join(project,'dist'),port=Number(process.env.PORT||8792);
+if(!fs.existsSync(path.join(root,'index.html'))){console.error('先に npm run build を実行してください');process.exit(1);}
+const types={'.html':'text/html; charset=utf-8','.js':'text/javascript; charset=utf-8','.css':'text/css; charset=utf-8','.svg':'image/svg+xml','.json':'application/json; charset=utf-8','.md':'text/plain; charset=utf-8','.zip':'application/zip','.png':'image/png'};
+const server=http.createServer((req,res)=>{let pathname;try{pathname=decodeURIComponent(new URL(req.url,'http://localhost').pathname);}catch{res.writeHead(400).end('Bad request');return;}const filename=path.resolve(root,'.'+pathname+(pathname.endsWith('/')?'index.html':''));if(!filename.startsWith(root+path.sep)){res.writeHead(403).end('Forbidden');return;}fs.stat(filename,(err,stat)=>{if(err||!stat.isFile()){res.writeHead(404).end('Not found');return;}res.setHeader('Content-Type',types[path.extname(filename)]||'text/plain; charset=utf-8');res.setHeader('Cache-Control','no-cache');res.setHeader('X-Content-Type-Options','nosniff');res.setHeader('Content-Length',stat.size);if(req.method==='HEAD'){res.end();return;}fs.createReadStream(filename).pipe(res);});});
+server.listen(port,'127.0.0.1',()=>console.log(`Motion Atlas: http://127.0.0.1:${port}/`));
